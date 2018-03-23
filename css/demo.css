@@ -1,0 +1,58 @@
+﻿body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 12px;
+	margin: 0;
+	padding: 40px;
+	width: 100%;
+}
+#glyphs {
+	float: left;
+	margin-bottom: -20px !important
+}
+#glyphs .g {
+	width: 89px;
+	float: left;
+	text-align: center;
+	padding: 0 3px 0 3px;
+	border-right: 1px solid #EEE;
+	white-space: nowrap;
+	overflow: hidden;
+	margin-bottom: 20px;
+	min-height: 100px
+}
+.noborder {
+	border: 0 !important
+}
+#glyphs p {
+	font-size: 60px;
+	padding: 0;
+	margin: 10px 0 0 0
+}
+#footer {
+	padding: 5px 20px 5px 20px
+}
+#footer a {
+	color: black
+}
+#copyright {
+	float: left;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 730px
+}
+#generated {
+	float: right
+}
+#support {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px 0 20px 40px;
+	color: #9F9F9F
+}
+.clr {
+	clear: both
+}
+#title, #glyphs p {
+	font-family: "Chess Alpha"
+}

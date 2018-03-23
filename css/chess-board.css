@@ -1,0 +1,26 @@
+.board {
+	border: 1px solid #CCC;
+	clear: both;
+	margin: 0 auto;
+	padding: 20px;
+	width: 672px;
+}
+.rank {
+	clear: both;
+	height: 80px;
+}
+.sq {
+	border: 1px solid #CCC;
+	float: left;
+	height: 80px;
+	margin: 0;
+	padding: 1px;
+	width: 80px;
+}
+.sq-w {
+	background: #F0F0F0;
+}
+.sq-b {
+	background: #9F9D84;
+}
+
